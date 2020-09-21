@@ -1,0 +1,73 @@
+@media screen and (min-width : 0px) and (max-width : 480px)
+{
+    .logo {
+        font-size: 12px;
+    }
+
+    .input-search input
+    {
+        width: 4rem;
+    }
+}
+
+/* res for screen from 640px to 1024px */
+@media screen and (min-width : 640px) and (max-width : 1024px)
+{
+
+    .logo {
+        font-size: 20px;
+    }
+
+    .input-search input
+    {
+        width: 9rem;
+        margin: 10px 0;
+    }
+
+    small {
+        font-size: 10px;
+    }
+
+    .each-slide .slide {
+        height: 320px;
+    }
+
+    .container .row .img-hover-zoom
+    {
+        height: 200px;
+    }
+
+    .text-secondary
+    {
+        font-size: 16px;
+    }
+
+    .show_gift .endow .transport
+    {
+        padding: 0.5rem;
+    }
+
+    .show_gift .endow .gift
+    {
+        padding: 0.5rem;
+    }
+
+    .show_gift .endow .sale
+    {
+        padding: 0.5rem;
+    }
+
+}
+
+/* res for screen from 480px to 639px */
+@media screen and (min-width : 480) and (max-width : 639px)
+{
+    .logo {
+        font-size: 20px;
+    }
+
+    .input-search input
+    {
+        width: 10rem !important;
+    }
+}

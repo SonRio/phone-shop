@@ -1,0 +1,595 @@
+{
+  "products": [
+    {
+      "name": "SamSung S20",
+      "image": "https://i.ibb.co/ZcLg4Tf/s20.jpg",
+      "price": "15490000",
+      "inventory": "8",
+      "raiting": "5",
+      "kind": "ss",
+      "rom": "128G",
+      "ram": "8G",
+      "infor": "Màn hình :\t6.2 inchs, 2K+, 2K+ (1440 x 3200 Pixels)\nCamera trước :\t10MP\nCamera sau :\tChính 12 MP & Phụ 64 MP, 12 MP\nRAM :\t8 GB\nBộ nhớ trong :\t128 GB\nCPU :\tExynos 990, 8, 2 nhân 2.73 GHz, 2 nhân 2.6 GHz & 4 nhân 2.0 GHz\nGPU :\tMali-G77 MP11\nDung lượng pin :\t4000 mAh\nHệ điều hành :\tAndroid 10.0\nThẻ SIM :\t2 SIM Nano (SIM 2 chung khe thẻ nhớ), 2 Sim\nXuất xứ :\tViệt Nam\nNăm sản xuất :\t2020",
+      "id": 1
+    },
+    {
+      "name": "SamSung S20 ultra",
+      "image": "https://i.ibb.co/SfgdtS8/s20u.png",
+      "price": "1799990",
+      "inventory": "5",
+      "raiting": "5",
+      "kind": "ss",
+      "rom": "128GB",
+      "ram": "12GB",
+      "infor": "Màn hình :\t6.9 inchs, 2K+, 2K+ (1440 x 3200 Pixels)\nCamera trước :\t40MP\nCamera sau :\tChính 108 MP & phụ 48 MP, 12 MP, TOF 3D\nRAM :\t12 GB\nBộ nhớ trong :\t128 GB\nCPU :\tExynos 990, 8, 2 nhân 2.73 GHz, 2 nhân 2.6 GHz & 4 nhân 2.0 GHz\nGPU :\tMali-G77 MP11\nDung lượng pin :\t5000 mAh\nHệ điều hành :\tAndroid 10.0\nThẻ SIM :\t2 SIM Nano (SIM 2 chung khe thẻ nhớ), 2 Sim\nXuất xứ :\tViệt Nam\nNăm sản xuất :\t2020",
+      "id": 2
+    },
+    {
+      "name": "SamSung S10",
+      "image": "https://i.ibb.co/4tBTYFW/s10.jpg",
+      "price": "1599990",
+      "inventory": "5",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "128GB",
+      "ram": "8GB",
+      "infor": "Màn hình :\t6.1 inches, Quad HD+, 1440 x 3040 pixels\nCamera trước :\t10MP\nCamera sau :\tChính 12 MP & Phụ 12 MP, 16 MP\nRAM :\t8 GB\nBộ nhớ trong :\t128 GB\nCPU :\tExynos 9820 8 nhân 64-bit, 8, 2 nhân 2.7 GHz, 2 nhân 2.3 GHz và 4 nhân 1.9 GHz\nGPU :\tMali-G76 MP12\nDung lượng pin :\t3400 mAh\nHệ điều hành :\tAndroid 9.0 (Pie)\nThẻ SIM :\tNano SIM, 2 Sim\nXuất xứ :\tViệt Nam\nNăm sản xuất :\t2019",
+      "id": 3
+    },
+    {
+      "name": "SamSung S9",
+      "image": "https://didongviet.vn/pub/media/catalog/product//s/a/samsung-galaxy-s9-plus-chinh-hang-didongviet_1_6.jpg",
+      "price": "1059990",
+      "inventory": "9",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tSuper AMOLED, 5.8\", Quad HD+ (2K+)\nHệ điều hành:\tAndroid 8.0 (Oreo)\nCamera sau:\t12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 9810 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 400 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3000 mAh, có sạc nhanh",
+      "id": 4
+    },
+    {
+      "name": "SamSung S9 Plus",
+      "image": "https://i.ibb.co/tJnFvJg/s9.jpg",
+      "price": "1359990",
+      "inventory": "5",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "64GB",
+      "ram": "9GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.2\", Quad HD+ (2K+)\nHệ điều hành:\tAndroid 8.0 (Oreo)\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 9810 8 nhân\nRAM:\t6 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 400 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3500 mAh, có sạc nhanh",
+      "id": 5
+    },
+    {
+      "name": "SamSung S8 Plus",
+      "image": "https://i.ibb.co/Fgq9Z7Y/s8-Copy.jpg",
+      "price": "8059990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.2\", Quad HD+ (2K+)\nHệ điều hành:\tAndroid 7.0 (Nougat)\nCamera sau:\t12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 8895 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3500 mAh, có sạc nhanh\nHệ điều hành:\tAndroid 7.0 (Nougat)\nCamera sau:\t12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 8895 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3000 mAh, có sạc nhanh\nHệ điều hành:\tAndroid 8.0 (Oreo)\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 9810 8 nhân\nRAM:\t6 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 400 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3500 mAh, có sạc nhanh",
+      "id": 6
+    },
+    {
+      "name": "SamSung S8 ",
+      "image": "https://i.ibb.co/SPwtC7L/s8-Copy.jpg",
+      "price": "5059990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tSuper AMOLED, 5.8\", Quad HD+ (2K+)\nHệ điều hành:\tAndroid 7.0 (Nougat)\nCamera sau:\t12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 8895 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3000 mAh, có sạc nhanh",
+      "id": 7
+    },
+    {
+      "name": "SamSung A30",
+      "image": "https://i.ibb.co/TrxKD3g/a30.jpg",
+      "price": "5009990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.4\", Full HD+\nHệ điều hành:\tAndroid 9.0 (Pie)\nCamera sau:\tChính 16 MP & Phụ 5 MP\nCamera trước:\t16 MP\nCPU:\tExynos 7904 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4000 mAh, có sạc nhanh",
+      "id": 8
+    },
+    {
+      "name": "SamSung A71",
+      "image": "https://i.ibb.co/tzX8F7b/a17.jpg",
+      "price": "5099990",
+      "inventory": "7",
+      "raiting": "5",
+      "kind": "ss",
+      "rom": "128GB",
+      "ram": "8GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.7\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 64 MP & Phụ 12 MP, 5 MP, 5 MP\nCamera trước:\t32 MP\nCPU:\tSnapdragon 730 8 nhân\nRAM:\t8 GB\nBộ nhớ trong:\t128 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4500 mAh, có sạc nhanh",
+      "id": 9
+    },
+    {
+      "name": "SamSung Note 10",
+      "image": "https://i.ibb.co/3rt0mRw/note10-Copy.jpg",
+      "price": "8099990",
+      "inventory": "8",
+      "raiting": "5",
+      "kind": "ss",
+      "rom": "128GB",
+      "ram": "8GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.7\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 12 MP & Phụ 12 MP, 12 MP\nCamera trước:\t32 MP\nCPU:\tExynos 9810 8 nhân\nRAM:\t8 GB\nBộ nhớ trong:\t128 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4500 mAh, có sạc nhanh",
+      "id": 10
+    },
+    {
+      "name": "SamSung Note 9",
+      "image": "https://i.ibb.co/xMdgxBs/note9-Copy.jpg",
+      "price": "11099990",
+      "inventory": "8",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "128GB",
+      "ram": "6GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.4\", Quad HD+ (2K+)\nHệ điều hành:\tAndroid 8.1 (Oreo)\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 9810 8 nhân\nRAM:\t6 GB\nBộ nhớ trong:\t128 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t4000 mAh, có sạc nhanh",
+      "id": 11
+    },
+    {
+      "name": "SamSung Note 8",
+      "image": "https://i.ibb.co/JsGgn99/note8-Copy.jpg",
+      "price": "5099990",
+      "inventory": "8",
+      "raiting": "4",
+      "kind": "ss",
+      "rom": "64GB",
+      "ram": "6GB",
+      "infor": "Màn hình:\tSuper AMOLED, 6.3\", Quad HD+ (2K+)\nHệ điều hành:\tAndroid 7.1 (Nougat)\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t8 MP\nCPU:\tExynos 8895 8 nhân\nRAM:\t6 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3300 mAh, có sạc nhanh",
+      "id": 12
+    },
+    {
+      "name": "Iphone 6s ",
+      "image": "https://i.ibb.co/9qyDzXH/ip6-Copy.jpg",
+      "price": "3099990",
+      "inventory": "10",
+      "raiting": "4",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tLED-backlit IPS LCD, 4.7\", Retina HD\nHệ điều hành:\tiOS 11\nCamera sau:\t12 MP\nCamera trước:\t5 MP\nCPU:\tApple A9 2 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t16 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t1715 mAh",
+      "id": 13
+    },
+    {
+      "name": "Iphone 7",
+      "image": "https://i.ibb.co/rQtKXBQ/ip7-Copy.jpg",
+      "price": "5099990",
+      "inventory": "10",
+      "raiting": "4",
+      "kind": "ip",
+      "rom": "32GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tLED-backlit IPS LCD, 4.7\", Retina HD\nHệ điều hành:\tiOS 13\nCamera sau:\t12 MP\nCamera trước:\t7 MP\nCPU:\tApple A10 Fusion 4 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t32 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t1960 mAh",
+      "id": 14
+    },
+    {
+      "name": "Iphone 7 Plus",
+      "image": "https://i.ibb.co/DrxKFJz/ip7-Copy.jpg",
+      "price": "7099990",
+      "inventory": "10",
+      "raiting": "4",
+      "kind": "ip",
+      "rom": "128GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tLED-backlit IPS LCD, 5.5\", Retina HD\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A10 Fusion 4 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t128 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t2900 mAh",
+      "id": 15
+    },
+    {
+      "name": "Iphone 8",
+      "image": "https://i.ibb.co/dg3z4dG/ip8-Copy.jpg",
+      "price": "9099990",
+      "inventory": "10",
+      "raiting": "5",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tLED-backlit IPS LCD, 4.7\", Retina HD\nHệ điều hành:\tiOS 12\nCamera sau:\t12 MP\nCamera trước:\t7 MP\nCPU:\tApple A11 Bionic 6 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t1821 mAh, có sạc nhanh",
+      "id": 16
+    },
+    {
+      "name": "Iphone 8 Plus",
+      "image": "https://i.ibb.co/dg3z4dG/ip8-Copy.jpg",
+      "price": "12099990",
+      "inventory": "10",
+      "raiting": "5",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "3GB",
+      "infor": "Màn hình:\tLED-backlit IPS LCD, 5.5\", Retina HD\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A11 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t2691 mAh, có sạc nhanh",
+      "id": 17
+    },
+    {
+      "name": "Iphone 11 Pro",
+      "image": "https://i.ibb.co/JzvSxT3/ip11-Copy.jpg",
+      "price": "26099990",
+      "inventory": "5",
+      "raiting": "5",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tOLED, 5.8\", Super Retina XDR\nHệ điều hành:\tiOS 13\nCamera sau:\t3 camera 12 MP\nCamera trước:\t12 MP\nCPU:\tApple A13 Bionic 6 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3046 mAh, có sạc nhanh\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A11 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t2691 mAh, có sạc nhanh",
+      "id": 18
+    },
+    {
+      "name": "Iphone 11 Pro h",
+      "image": "https://i.ibb.co/gj42BWm/ip11pro-Copy.jpg",
+      "price": "25099990",
+      "inventory": "4",
+      "raiting": "4",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tOLED, 5.8\", Super Retina XDR\nHệ điều hành:\tiOS 13\nCamera sau:\t3 camera 12 MP\nCamera trước:\t12 MP\nCPU:\tApple A13 Bionic 6 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3046 mAh, có sạc nhanh\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A11 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t2691 mAh, có sạc nhanh",
+      "id": 19
+    },
+    {
+      "name": "Iphone X",
+      "image": "https://i.ibb.co/FgC0MzX/ipx-Copy.jpg",
+      "price": "9099990",
+      "inventory": "4",
+      "raiting": "5",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "3GB",
+      "infor": "Màn hình:\tOLED, 5.8\", Super Retina\nHệ điều hành:\tiOS 12\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A11 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t2716 mAh, có sạc nhanh",
+      "id": 20
+    },
+    {
+      "name": "Iphone Xr",
+      "image": "https://i.ibb.co/0K0WgSQ/ipxr-Copy.jpg",
+      "price": "12099990",
+      "inventory": "4",
+      "raiting": "5",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "3GB",
+      "infor": "Màn hình:\tIPS LCD, 6.1\", Liquid Retina\nHệ điều hành:\tiOS 12\nCamera sau:\t12 MP\nCamera trước:\t7 MP\nCPU:\tApple A12 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t2942 mAh, có sạc nhanh\nHệ điều hành:\tiOS 12\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A11 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t2716 mAh, có sạc nhanh",
+      "id": 21
+    },
+    {
+      "name": "Iphone Xs Max",
+      "image": "https://i.ibb.co/27KJnyF/ipxsmax-Copy.png",
+      "price": "20099990",
+      "inventory": "4",
+      "raiting": "5",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tOLED, 6.5\", Super Retina\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A12 Bionic 6 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t3174 mAh, có sạc nhanh",
+      "id": 22
+    },
+    {
+      "name": "Iphone 6s Plus",
+      "image": "https://i.ibb.co/9qyDzXH/ip6-Copy.jpg",
+      "price": "4099990",
+      "inventory": "4",
+      "raiting": "4",
+      "kind": "ip",
+      "rom": "64GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tOLED, 6.5\", Super Retina\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A12 Bionic 6 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t3174 mAh, có sạc nhanh",
+      "id": 23
+    },
+    {
+      "name": "Iphone 7 Plus",
+      "image": "https://i.ibb.co/DrxKFJz/ip7-Copy.jpg",
+      "price": "7099990",
+      "inventory": "4",
+      "raiting": "4",
+      "kind": "ip",
+      "rom": "128GB",
+      "ram": "3GB",
+      "infor": "Màn hình:\tOLED, 6.5\", Super Retina\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A12 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t128 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t3174 mAh, có sạc nhanh",
+      "id": 24
+    },
+    {
+      "name": "Xiaomi Redmi Note 9",
+      "image": "https://i.ibb.co/bvPw6p9/xn9.jpg",
+      "price": "4299990",
+      "inventory": "4",
+      "raiting": "5",
+      "kind": "ot",
+      "rom": "128GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tIPS LCD, 6.53\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 48 MP & Phụ 8 MP, 2 MP, 2 MP\nCamera trước:\t13 MP\nCPU:\tMediaTek Helio G85 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t128 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5020 mAh, có sạc nhanh\nHệ điều hành:\tiOS 13\nCamera sau:\tChính 12 MP & Phụ 12 MP\nCamera trước:\t7 MP\nCPU:\tApple A12 Bionic 6 nhân\nRAM:\t3 GB\nBộ nhớ trong:\t128 GB\nThẻ SIM:\n1 eSIM & 1 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t3174 mAh, có sạc nhanh",
+      "id": 25
+    },
+    {
+      "name": "Xiaomi Redmi Note 10",
+      "image": "https://i.ibb.co/YyTzFKm/xn10.jpg",
+      "price": "7299990",
+      "inventory": "6",
+      "raiting": "5",
+      "kind": "ot",
+      "rom": "128GB",
+      "ram": "6GB",
+      "infor": "Màn hình:\tAMOLED, 6.47\", Full HD+\nHệ điều hành:\tAndroid 9.0 (Pie)\nCamera sau:\tChính 108 MP & Phụ 20 MP, 12 MP, 5 MP, 2 MP\nCamera trước:\t32 MP\nCPU:\tSnapdragon 730G 8 nhân\nRAM:\t6 GB\nBộ nhớ trong:\t128 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5260 mAh, có sạc nhanh",
+      "id": 26
+    },
+    {
+      "name": "Xiaomi Redmi Note 8",
+      "image": "https://i.ibb.co/RSF2jXk/xn8.jpg",
+      "price": "4099990",
+      "inventory": "6",
+      "raiting": "5",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tIPS LCD, 6.3\", Full HD+\nHệ điều hành:\tAndroid 9.0 (Pie)\nCamera sau:\tChính 48 MP & Phụ 8 MP, 2 MP, 2 MP\nCamera trước:\t13 MP\nCPU:\tSnapdragon 665 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4000 mAh, có sạc nhanh",
+      "id": 27
+    },
+    {
+      "name": "Xiaomi Redmi Note 7",
+      "image": "https://i.ibb.co/vDC4CZD/xn7.jpg",
+      "price": "4099990",
+      "inventory": "6",
+      "raiting": "5",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tIPS LCD, 6.3\", Full HD+\nHệ điều hành:\tAndroid 9.0 (Pie)\nCamera sau:\tChính 48 MP & Phụ 5 MP\nCamera trước:\t13 MP\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 1 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t4000 mAh, có sạc nhanh\nHệ điều hành:\tAndroid 9.0 (Pie)\nCamera sau:\tChính 48 MP & Phụ 8 MP, 2 MP, 2 MP\nCamera trước:\t13 MP\nCPU:\tSnapdragon 665 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4000 mAh, có sạc nhanh",
+      "id": 28
+    },
+    {
+      "name": "Xiaomi Redmi 9C",
+      "image": "https://5.imimg.com/data5/XA/PU/ON/SELLER-4924047/mi-redmi-8a-dual-500x500.jpg",
+      "price": "2099990",
+      "inventory": "8",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "32GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tIPS LCD, 6.53\", HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 13 MP & Phụ 2 MP, 2 MP\nCamera trước:\t5 MP\nCPU:\tMediaTek Helio G35 8 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t32 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5000 mAh",
+      "id": 29
+    },
+    {
+      "name": "Xiaomi Redmi 9",
+      "image": "https://i.ibb.co/s3FHRs5/x9.jpg",
+      "price": "3099990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tIPS LCD, 6.53\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 13 MP & Phụ 8 MP, 5 MP, 2 MP\nCamera trước:\t8 MP\nCPU:\tMediaTek Helio G80 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5020 mAh, có sạc nhanh\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 13 MP & Phụ 2 MP, 2 MP\nCamera trước:\t5 MP\nCPU:\tMediaTek Helio G35 8 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t32 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5000 mAh",
+      "id": 30
+    },
+    {
+      "name": "VsMart 5G",
+      "image": "https://i.ibb.co/ygpLF4w/va5.jpg",
+      "price": "5099990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "128GB",
+      "ram": "8GB",
+      "infor": "Màn hình:\tIPS LCD, 6.53\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 13 MP & Phụ 8 MP, 5 MP, 2 MP\nCamera trước:\t8 MP\nCPU:\tMediaTek Helio G80 8 nhân\nRAM:\t8 GB\nBộ nhớ trong:\t128 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5020 mAh, có sạc nhanh\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 13 MP & Phụ 2 MP, 2 MP\nCamera trước:\t5 MP\nCPU:\tMediaTek Helio G35 8 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t32 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 512 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t5000 mAh",
+      "id": 31
+    },
+    {
+      "name": "VsMart Active 3",
+      "image": "https://i.ibb.co/XyYYFS3/va3.jpg",
+      "price": "3099990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "6GB",
+      "infor": "Màn hình:\tAMOLED, 6.39\", Full HD+\nHệ điều hành:\tAndroid 9.0 (Pie)\nCamera sau:\tChính 48 MP & Phụ 8 MP, 2 MP\nCamera trước:\t16 MP\nCPU:\tMediaTek Helio P60 8 nhân\nRAM:\t6 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4020 mAh, có sạc nhanh",
+      "id": 32
+    },
+    {
+      "name": "VsMart Active 1",
+      "image": "https://i.ibb.co/56DXqXY/va1.jpg",
+      "price": "2099990",
+      "inventory": "5",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tIPS LCD, 5.65\", Full HD+\nHệ điều hành:\tAndroid 8.1 (Oreo)\nCamera sau:\tChính 12 MP & Phụ 5 MP\nCamera trước:\t8 MP\nCPU:\tSnapdragon 660 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3100 mAh, có sạc nhanh",
+      "id": 33
+    },
+    {
+      "name": "Oppo Reno 4",
+      "image": "https://i.ibb.co/c6LSbJs/oren4-Copy.jpg",
+      "price": "6099990",
+      "inventory": "5",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tIPS LCD, 5.65\", Full HD+\nHệ điều hành:\tAndroid 8.1 (Oreo)\nCamera sau:\tChính 12 MP & Phụ 5 MP\nCamera trước:\t8 MP\nCPU:\tSnapdragon 660 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 SIM Nano (SIM 2 chung khe thẻ nhớ), Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3100 mAh, có sạc nhanh",
+      "id": 34
+    },
+    {
+      "name": "Oppo Reno 3",
+      "image": "https://didongviet.vn/pub/media/catalog/product//o/p/oppo-reno-3.jpg",
+      "price": "7099990",
+      "inventory": "7",
+      "raiting": "5",
+      "kind": "ot",
+      "rom": "128GB",
+      "ram": "8GB",
+      "infor": "Màn hình:\tAMOLED, 6.4\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 48 MP & Phụ 13 MP, 8 MP, 2 MP\nCamera trước:\t44 MP\nCPU:\tMediaTek Helio P90 8 nhân\nRAM:\t8 GB\nBộ nhớ trong:\t128 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4025 mAh, có sạc nhan",
+      "id": 35
+    },
+    {
+      "name": "Oppo Reno 2",
+      "image": "https://i.ibb.co/KVNqPNw/oren2-Copy.jpg",
+      "price": "5099990",
+      "inventory": "7",
+      "raiting": "3",
+      "kind": "ot",
+      "rom": "64GB",
+      "ram": "4GB",
+      "infor": "Màn hình:\tAMOLED, 6.4\", Full HD+\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 48 MP & Phụ 13 MP, 8 MP, 2 MP\nCamera trước:\t44 MP\nCPU:\tMediaTek Helio P90 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4025 mAh, có sạc nhan",
+      "id": 36
+    },
+    {
+      "name": "Oppo F7",
+      "image": "https://i.ibb.co/MnBzY3T/o7-Copy.png",
+      "price": "3099990",
+      "inventory": "7",
+      "raiting": "3",
+      "kind": "ot",
+      "rom": "32GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tLTPS LCD, 6.23\", Full HD+\nHệ điều hành:\tColorOS 5.0 (Android 8.1)\nCamera sau:\t16 MP\nCamera trước:\t25 MP\nCPU:\tMediaTek Helio P60 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3400 mAh\nHệ điều hành:\tAndroid 10\nCamera sau:\tChính 32 MP & Phụ 13 MP, 8 MP, 2 MP\nCamera trước:\t12 MP\nCPU:\tMediaTek Helio P90 8 nhân\nRAM:\t2 GB\nBộ nhớ trong:\t32 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Siêu sim (5GB/ngày)\nDung lượng pin:\t4025 mAh, có sạc nhan",
+      "id": 37
+    },
+    {
+      "name": "Oppo F9",
+      "image": "https://i.ibb.co/bLkJFdM/o9-Copy.jpg",
+      "price": "4099990",
+      "inventory": "7",
+      "raiting": "4",
+      "kind": "ot",
+      "rom": "32GB",
+      "ram": "2GB",
+      "infor": "Màn hình:\tLTPS LCD, 6.3\", Full HD+\nHệ điều hành:\tColorOS 5.2 (Android 8.1)\nCamera sau:\tChính 16 MP & Phụ 2 MP\nCamera trước:\t25 MP\nCPU:\tMediaTek Helio P60 8 nhân\nRAM:\t4 GB\nBộ nhớ trong:\t64 GB\nThẻ nhớ:\tMicroSD, hỗ trợ tối đa 256 GB\nThẻ SIM:\n2 Nano SIM, Hỗ trợ 4G\nHOTSIM VNMB Sieu sim (5GB/ngày)\nDung lượng pin:\t3500 mAh, có sạc nhanh",
+      "id": 38
+    }
+  ],
+  "product_details": [
+    {
+      "productId": 2,
+      "user": "ThanhMinh",
+      "rate": 4,
+      "comment": "áđâsd",
+      "dateCreate": "2020-08-05T04:04:44.391Z",
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "user": "ThanhMinh",
+      "rate": 4,
+      "comment": "ddd",
+      "dateCreate": "2020-08-05T04:12:29.492Z",
+      "id": 2
+    },
+    {
+      "productId": 2,
+      "user": "ThanhMinh",
+      "rate": "",
+      "comment": "áđâsđá",
+      "dateCreate": "2020-08-05T04:12:55.394Z",
+      "id": 3
+    },
+    {
+      "productId": 2,
+      "user": "ThanhMinh",
+      "rate": 5,
+      "comment": "tốt lắm cu",
+      "dateCreate": "2020-08-05T04:13:08.884Z",
+      "id": 4
+    },
+    {
+      "productId": 2,
+      "user": "TheRio",
+      "rate": "",
+      "comment": "tập đánh giá lần á",
+      "dateCreate": "2020-08-05T04:14:04.171Z",
+      "id": 5
+    },
+    {
+      "productId": 33,
+      "user": "ThanhMinh",
+      "rate": 5,
+      "comment": "",
+      "dateCreate": "2020-08-07T20:37:35.250Z",
+      "id": 6
+    },
+    {
+      "productId": 10,
+      "user": "ThanhMinh",
+      "rate": 4,
+      "comment": "san pham chat luong",
+      "dateCreate": "2020-08-10T07:11:02.712Z",
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "name": "Thanh Son",
+      "address": "15 Hoang Xuan Nhi",
+      "phone": "986807109",
+      "user": "TheRio",
+      "pwd": "11111111",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Văn Thanh Minh",
+      "address": "Phố cỗ Hà Nội",
+      "phone": "636516650",
+      "user": "ThanhMinh",
+      "pwd": "22222222",
+      "id": 2
+    },
+    {
+      "name": "nguyễn Văn Thanh Sơn",
+      "address": "THCS Binh minh",
+      "phone": "987108109",
+      "user": "thanhson",
+      "pwd": "33333333",
+      "id": 3
+    },
+    {
+      "name": "Nguyễn Văn Thanh Sơn",
+      "address": "Bình Minh - Binh Sơn - Quảng Ngãi",
+      "phone": "986807109",
+      "user": "ThanhSon",
+      "pwd": "12345678",
+      "id": 4
+    }
+  ],
+  "user_order": [
+    {
+      "userId": 1,
+      "totalBill": 0,
+      "dateCreate": "Wed Aug 05 2020 23:55:05 GMT+0700 (Giờ Đông Dương)",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "totalBill": 6159980,
+      "dateCreate": "Mon Aug 10 2020 14:15:43 GMT+0700 (Giờ Đông Dương)",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "totalBill": 15490000,
+      "dateCreate": "Mon Aug 10 2020 16:28:56 GMT+0700 (Giờ Đông Dương)",
+      "id": 3
+    }
+  ],
+  "order_Detail": [
+    {
+      "userId": 2,
+      "productId": 9,
+      "amount": 1,
+      "price": "5099990",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "productId": 4,
+      "amount": 1,
+      "price": "1059990",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "productId": 1,
+      "amount": 1,
+      "price": "15490000",
+      "id": 4
+    }
+  ]
+}

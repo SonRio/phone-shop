@@ -1,0 +1,11 @@
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const GET_USER = 'GET_USER';
+export const REMOVE_USER = 'REMOVE_USER';
+export const SHOW_CART = 'SHOW_CART';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const INCREASE_PRODUCT = 'INCREASE_PRODUCT';
+export const REDUCE_PRODUCT = 'REDUCE_PRODUCT';
+export const SHOW_INFOR_PRODUCT = 'SHOW_INFOR_PRODUCT';
+export const GET_DEFAULT_DATA = 'GET_DEFAULT_DATA'
+export const GET_PRODUCT_DETAIL = 'GET_PRODUCT_DETAIL'
+
